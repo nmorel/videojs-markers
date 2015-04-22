@@ -1,0 +1,25 @@
+{
+  "name": "videojs-markers",
+  "version": "0.4.0",
+  "homepage": "https://github.com/nmorel/videojs-markers",
+  "description": "Displays customizable markers upon progress bars of video.js players",
+  "main": [
+    "dist/videojs.markers.css",
+    "dist/videojs-markers.js"
+  ],
+  "keywords": [
+    "videojs",
+    "html5",
+    "flash",
+    "video",
+    "player",
+    "marker"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "demo",
+    "src"
+  ]
+}

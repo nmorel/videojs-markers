@@ -7,6 +7,9 @@
     "dist/videojs.markers.css",
     "dist/videojs-markers.js"
   ],
+  "dependencies": {
+    "video.js": "~4.12.5"
+  },
   "keywords": [
     "videojs",
     "html5",
